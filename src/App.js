@@ -1,4 +1,4 @@
-import C01componente from "./componentes/C01componente";
+import C01componente from "./componentes/C01componentes";
 import C02contador from "./componentes/C02contador";
 import C03doblecontador from "./componentes/C03doblecontador";
 
