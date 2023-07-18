@@ -1,6 +1,6 @@
-import C01componente from "./components/C01componente";
-import C02contador from "./components/C02contador";
-import C03doblecontador from "./components/C03doblecontador";
+import C01componente from "./componentes/C01componente";
+import C02contador from "./componentes/C02contador";
+import C03doblecontador from "./componentes/C03doblecontador";
 
 
 function App() {
