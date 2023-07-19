@@ -5,6 +5,7 @@ import C02contador from './components/C02contador';
 import C03doblecontador from './components/C03doblecontador';
 import C04variable from './components/C04variable';
 import C05operadorTernario from './components/C05operadorTernario';
+import C06matriz from './components/C06matriz1';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <h1>Quinto componente</h1>
       <C05operadorTernario />
       <h1>Sexto  componente</h1>
+      <C06matriz />
 
      
     </div>
