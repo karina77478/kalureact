@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kalureact/static/css/main.073c9b0a.css",
-    "main.js": "/kalureact/static/js/main.750a38d0.js",
+    "main.js": "/kalureact/static/js/main.7c8e26a0.js",
     "static/js/787.cc4e593a.chunk.js": "/kalureact/static/js/787.cc4e593a.chunk.js",
     "static/media/logo.svg": "/kalureact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kalureact/index.html",
     "main.073c9b0a.css.map": "/kalureact/static/css/main.073c9b0a.css.map",
-    "main.750a38d0.js.map": "/kalureact/static/js/main.750a38d0.js.map",
+    "main.7c8e26a0.js.map": "/kalureact/static/js/main.7c8e26a0.js.map",
     "787.cc4e593a.chunk.js.map": "/kalureact/static/js/787.cc4e593a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.750a38d0.js"
+    "static/js/main.7c8e26a0.js"
   ]
 }
